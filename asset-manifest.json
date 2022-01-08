@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/therichest-frontend/static/css/main.d83298cf.css",
-    "main.js": "/therichest-frontend/static/js/main.f2b21cab.js",
+    "main.js": "/therichest-frontend/static/js/main.643dbf4b.js",
     "static/js/787.7334b8db.chunk.js": "/therichest-frontend/static/js/787.7334b8db.chunk.js",
     "index.html": "/therichest-frontend/index.html",
     "main.d83298cf.css.map": "/therichest-frontend/static/css/main.d83298cf.css.map",
-    "main.f2b21cab.js.map": "/therichest-frontend/static/js/main.f2b21cab.js.map",
+    "main.643dbf4b.js.map": "/therichest-frontend/static/js/main.643dbf4b.js.map",
     "787.7334b8db.chunk.js.map": "/therichest-frontend/static/js/787.7334b8db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d83298cf.css",
-    "static/js/main.f2b21cab.js"
+    "static/js/main.643dbf4b.js"
   ]
 }
